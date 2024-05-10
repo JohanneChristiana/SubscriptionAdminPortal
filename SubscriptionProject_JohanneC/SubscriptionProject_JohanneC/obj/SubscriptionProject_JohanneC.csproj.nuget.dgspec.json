@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\AUSTRALIA\\Victoria University\\2 Bachelor of IT (prof)\\1st Semester (2nd)\\3 Advanced Web Application\\week 1\\SubscriptionProject_JohanneC\\SubscriptionProject_JohanneC\\SubscriptionProject_JohanneC.csproj": {}
+  },
+  "projects": {
+    "E:\\AUSTRALIA\\Victoria University\\2 Bachelor of IT (prof)\\1st Semester (2nd)\\3 Advanced Web Application\\week 1\\SubscriptionProject_JohanneC\\SubscriptionProject_JohanneC\\SubscriptionProject_JohanneC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\AUSTRALIA\\Victoria University\\2 Bachelor of IT (prof)\\1st Semester (2nd)\\3 Advanced Web Application\\week 1\\SubscriptionProject_JohanneC\\SubscriptionProject_JohanneC\\SubscriptionProject_JohanneC.csproj",
+        "projectName": "SubscriptionProject_JohanneC",
+        "projectPath": "E:\\AUSTRALIA\\Victoria University\\2 Bachelor of IT (prof)\\1st Semester (2nd)\\3 Advanced Web Application\\week 1\\SubscriptionProject_JohanneC\\SubscriptionProject_JohanneC\\SubscriptionProject_JohanneC.csproj",
+        "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
+        "outputPath": "E:\\AUSTRALIA\\Victoria University\\2 Bachelor of IT (prof)\\1st Semester (2nd)\\3 Advanced Web Application\\week 1\\SubscriptionProject_JohanneC\\SubscriptionProject_JohanneC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\johan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

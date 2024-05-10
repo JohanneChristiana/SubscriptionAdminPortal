@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SubscriptionProject_JohanneC
+build_property.ProjectDir = E:\AUSTRALIA\Victoria University\2 Bachelor of IT (prof)\1st Semester (2nd)\3 Advanced Web Application\week 1\SubscriptionProject_JohanneC\SubscriptionProject_JohanneC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
